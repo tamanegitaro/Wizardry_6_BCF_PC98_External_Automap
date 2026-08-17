@@ -4,7 +4,7 @@
 
 このリポジトリは、**Wizardry 6: Bane of the Cosmic Forge PC-9801版**をWindows上のPC-98エミュレーターで遊ぶための、非公式External AutoMapです。
 
-`Wizardry6Automap.exe`は、エミュレーター上で動作しているWizardry 6のメモリを外部から読み取り、ゲーム画面とは別のウィンドウにマップを表示します。
+使い方としては、`Wizardry6Automap.exe`を実行し、なおかつNeko Project IIなどのエミュレーターを実行すると、Automapが自動的にエミュレーターのメモリを読み、マップを自動描画します。
 
 標準設定ではAnex86、Neko Project II系、Wizardry Legacy、蘇るPC-9801伝説 第2弾など複数の実行ファイル名を接続候補として登録しています。
 `Config\Wizardry6Automap.conf`の`target1`～`target16`を変更することで、別の実行ファイル名も指定できます。
