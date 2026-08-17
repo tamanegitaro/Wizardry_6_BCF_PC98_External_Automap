@@ -12,6 +12,9 @@
 本ツールは、**PC-9801版 Wizardry 6**向けです。
 海外MS-DOS版、DOS/V版、Wizardry 7、その他の機種版向けAutoMap機能は含まれていません。
 
+Wizardry 7 Crusaders of Dark Savant PC-9801用のAutomapはこちらです：
+https://github.com/tamanegitaro/Wizardry_7_CDS_PC98_External_Automap
+
 ## できること
 
 このツールでは、主に以下のことができます。
