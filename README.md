@@ -388,3 +388,5 @@ Wizardry 7 Map Details:
 https://dungeoncrawl-classics.com/wizardry-series/7-crusaders-of-the-dark-savant/wizardry-7-map-details/
 
 This project is an unofficial adaptation for the PC-9801 version of Wizardry 6.
+
+りすてぃんさん - テストプレイありがとうございました。
